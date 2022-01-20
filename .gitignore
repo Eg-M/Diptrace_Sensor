@@ -5,3 +5,4 @@
 *.dip~
 *.brd
 **/Diptrace_Sensor/**/*.brd
+*.brd
