@@ -3,4 +3,5 @@
 ~CNR_Temp_Sens.dip~
 *.dch~
 *.dip~
-*.brd~
+*.brd
+**/Diptrace_Sensor/**/*.brd
