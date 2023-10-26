@@ -1,4 +1,4 @@
-# Diptrace_Sensor
+# PCB designs
 
 - 1. Nanowire resistance measurement circuit: Electrical board to simultaneous measurement of resistance from two nanowires. I simulated a circuit for nanowires, designed the schematic and a PCB board. Furthermore, it is planned to write code for the Arduino board to transmit data to the PC.
 - 2. Development of the data acquisition system for sensing food spoilage:
